@@ -1,0 +1,32 @@
+button {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    background: lightgoldenrodyellow;
+    color: lightpink;
+    align-content: center;
+    width: 30%;
+    
+}
+
+button:hover {
+    background: lightseagreen;
+}
+
+h2 {
+    font-family: 'Lucida Handwriting', cursive ;
+}
+
+body {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 75px;
+    border: 10px groove red;
+    width: 60%;
+    height: 45vh;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 15px;
+    justify-content: center;
+}
